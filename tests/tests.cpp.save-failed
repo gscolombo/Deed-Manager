@@ -1,0 +1,30 @@
+#define CATCH_CONFIG_MAIN
+#include "catch.hpp"
+using namespace Catch;
+
+#include <iostream>
+#include <stdio.h>
+
+struct CustomListener : Catch::TestEventListenerBase {
+
+    using TestEventListenerBase::TestEventListenerBase;
+
+    void testRunStarting ( TestRunInfo const& testRunInfo ) {
+        std::cout << "Starting domains tests..." << std::endl << std::endl;
+    }
+
+    void testCaseStarting ( TestCaseInfo const& testCaseInfo ) {
+        std::cout << "Testing " << testCaseInfo.name << "..." << std::endl;
+    }
+
+    void testCaseEnded ( TestCaseStats const& testCaseStats ) {
+        size_t passed = testCaseStats.totals.assertions.passed;
+        size_t total = testCaseStats.totals.assertions.total();
+        std::cout << passed << " out of " << total <<  " assertions passed." << std::endl<< std::endl;
+    }
+
+    void sectionStarting( SectionInfo const& sectionInfo ) {
+        printf("TEST: %s", sectionInfo.name.c_str(), "\n");
+    }
+};
+CATCH_REGISTER_LISTENER( CustomListener );

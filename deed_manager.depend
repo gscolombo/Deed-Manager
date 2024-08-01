@@ -1,0 +1,1427 @@
+# depslib dependency file v1.0
+1714829058 source:c:\users\liberty\documents\unb\tp1\deed_manager\main.cpp
+	"utils.hpp"
+	<iostream>
+	<vector>
+	<string>
+
+1714779552 
+
+1714840607 c:\users\liberty\documents\unb\tp1\deed_manager\domains\money.hpp
+	"../includes/interval.hpp"
+	"../utils.hpp"
+
+1714863830 hpp"
+
+1714829028 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\money.cpp
+	"money.hpp"
+
+1713644680 "
+
+1714842465 c:\users\liberty\documents\unb\tp1\deed_manager\domains\name.hpp
+	<string>
+	<vector>
+	<stdexcept>
+	<regex>
+	"../utils.hpp"
+
+1714863782 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\name.cpp
+	"name.hpp"
+	<iostream>
+
+1714829984 source:c:\users\liberty\documents\unb\tp1\deed_manager\utils.cpp
+	"utils.hpp"
+	<iostream>
+
+1714864227 c:\users\liberty\documents\unb\tp1\deed_manager\utils.hpp
+	<string>
+	<vector>
+	<math.h>
+
+1714842215 c:\users\liberty\documents\unb\tp1\deed_manager\domains\date.hpp
+	<string>
+	<stdexcept>
+	<iostream>
+
+1714840822 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\date.cpp
+	"date.hpp"
+
+1714835860 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\password.cpp
+	"password.hpp"
+
+1714841118 c:\users\liberty\documents\unb\tp1\deed_manager\domains\password.hpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<regex>
+	<algorithm>
+
+1714840348 >
+
+1714685210 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\tests.cpp
+	"catch.hpp"
+	<iostream>
+
+1713410809 c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\money.hpp
+	"../../domains/money.hpp"
+
+1713410809 ains/money.hpp"
+
+1713406120 c:\users\liberty\documents\unb\tp1\deed_manager\tests\catch.hpp
+	<TargetConditionals.h>
+	<cstddef>
+	<ciso646>
+	<iosfwd>
+	<string>
+	<cstdint>
+	<vector>
+	<cstddef>
+	<string>
+	<iosfwd>
+	<cassert>
+	<type_traits>
+	<vector>
+	<cstddef>
+	<type_traits>
+	<string>
+	<iosfwd>
+	<cstddef>
+	<ostream>
+	<vector>
+	<string_view>
+	<utility>
+	<optional>
+	<tuple>
+	<variant>
+	<ctime>
+	<ratio>
+	<chrono>
+	<iosfwd>
+	<string>
+	<chrono>
+	<string>
+	<vector>
+	<cstddef>
+	<string>
+	<cstdint>
+	<string>
+	<string>
+	<memory>
+	<exception>
+	<string>
+	<vector>
+	<type_traits>
+	<string>
+	<iosfwd>
+	<vector>
+	<string>
+	<vector>
+	<functional>
+	<string>
+	<string>
+	<algorithm>
+	<memory>
+	<exception>
+	<memory>
+	<vector>
+	<cassert>
+	<utility>
+	<exception>
+	<memory>
+	<chrono>
+	<iosfwd>
+	<string>
+	<vector>
+	<memory>
+	<cstdint>
+	<random>
+	<string>
+	<vector>
+	<memory>
+	<string>
+	<string>
+	<vector>
+	<memory>
+	<string>
+	<memory>
+	<vector>
+	<string>
+	<string>
+	<iterator>
+	<string>
+	<iosfwd>
+	<map>
+	<set>
+	<memory>
+	<algorithm>
+	<algorithm>
+	<cstring>
+	<cfloat>
+	<cstdio>
+	<cassert>
+	<memory>
+	<ostream>
+	<vector>
+	<chrono>
+	<ratio>
+	<atomic>
+	<type_traits>
+	<utility>
+	<cassert>
+	<type_traits>
+	<utility>
+	<memory>
+	<type_traits>
+	<utility>
+	<tuple>
+	<type_traits>
+	<utility>
+	<utility>
+	<type_traits>
+	<algorithm>
+	<iterator>
+	<algorithm>
+	<functional>
+	<vector>
+	<iterator>
+	<numeric>
+	<tuple>
+	<cmath>
+	<utility>
+	<cstddef>
+	<random>
+	<algorithm>
+	<iterator>
+	<tuple>
+	<vector>
+	<cmath>
+	<algorithm>
+	<vector>
+	<string>
+	<iterator>
+	<algorithm>
+	<iterator>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+	<vector>
+	<cmath>
+	<type_traits>
+	<string>
+	<vector>
+	<memory>
+	<cassert>
+	<random>
+	<future>
+	<cmath>
+	<limits>
+	<signal.h>
+	<cassert>
+	<string>
+	<optional>
+	<cassert>
+	<ostream>
+	<sstream>
+	<vector>
+	<cctype>
+	<string>
+	<memory>
+	<set>
+	<algorithm>
+	<fstream>
+	<ctime>
+	<cstring>
+	<ostream>
+	<AfxWin.h>
+	<windows.h>
+	<sstream>
+	<unistd.h>
+	<string>
+	<android/log.h>
+	<cassert>
+	<sys/types.h>
+	<unistd.h>
+	<cstddef>
+	<ostream>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<stdexcept>
+	<vector>
+	<memory>
+	<map>
+	<cassert>
+	<cerrno>
+	<vector>
+	<string>
+	<memory>
+	<algorithm>
+	<signal.h>
+	<limits>
+	<set>
+	<crtdbg.h>
+	<set>
+	<limits>
+	<algorithm>
+	<iomanip>
+	<string>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<cstdint>
+	<cstring>
+	<sstream>
+	<type_traits>
+	<iomanip>
+	<limits>
+	<regex>
+	<cassert>
+	<stack>
+	<cstdio>
+	<iosfwd>
+	<string>
+	<cstdio>
+	<cstring>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<io.h>
+	<unistd.h>
+	<cmath>
+	<vector>
+	<set>
+	<algorithm>
+	<ios>
+	<map>
+	<string>
+	<map>
+	<vector>
+	<exception>
+	<cassert>
+	<algorithm>
+	<sstream>
+	<memory>
+	<iosfwd>
+	<cstdlib>
+	<iomanip>
+	<set>
+	<iterator>
+	<vector>
+	<cstdio>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<memory>
+	<algorithm>
+	<ostream>
+	<cstring>
+	<cctype>
+	<vector>
+	<algorithm>
+	<ostream>
+	<cstring>
+	<cstdint>
+	<sstream>
+	<cctype>
+	<exception>
+	<algorithm>
+	<sstream>
+	<algorithm>
+	<sstream>
+	<algorithm>
+	<cassert>
+	<stdexcept>
+	<memory>
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<memory>
+	<chrono>
+	<cmath>
+	<iomanip>
+	<cstddef>
+	<exception>
+	<exception>
+	<ostream>
+	<iomanip>
+	<type_traits>
+	<cstring>
+	<cfloat>
+	<cstdio>
+	<cassert>
+	<memory>
+	<cfloat>
+	<cstdio>
+	<cassert>
+	<sstream>
+	<ctime>
+	<algorithm>
+	<iomanip>
+	<cassert>
+
+1714824242 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\money.cpp
+	"../catch.hpp"
+	"../../domains/money.hpp"
+	<utility>
+
+1714824259 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\name.cpp
+	"../catch.hpp"
+	"../../domains/name.hpp"
+	<iostream>
+
+1713644680 c:\users\liberty\documents\unb\tp1\deed_manager\utils.cpp
+	"utils.hpp"
+
+1714824209 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\date.cpp
+	"../catch.hpp"
+	"../../domains/date.hpp"
+
+1714824209 ains/date.hpp"
+
+1714824272 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\password.cpp
+	"../catch.hpp"
+	"../../domains/password.hpp"
+
+1714824272 ains/password.hpp"
+
+1714775803 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\payment_code.cpp
+	"../catch.hpp"
+	"../../domains/payment_code.hpp"
+	<iostream>
+
+1714840429 c:\users\liberty\documents\unb\tp1\deed_manager\domains\payment_code.hpp
+	"../includes/alphanumerical_code.hpp"
+	<ctype.h>
+
+1714824297 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\percent.cpp
+	"../catch.hpp"
+	"../../domains/percent.hpp"
+	<vector>
+	<iostream>
+
+1714836669 c:\users\liberty\documents\unb\tp1\deed_manager\domains\percent.hpp
+	"../includes/interval.hpp"
+	"../utils.hpp"
+	<math.h>
+
+1714824332 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\sector.cpp
+	"../catch.hpp"
+	"../../domains/sector.hpp"
+	<iostream>
+
+1714838972 c:\users\liberty\documents\unb\tp1\deed_manager\domains\sector.hpp
+	"../includes/listing.hpp"
+
+1714838998 es/listing.hpp"
+
+1714774131 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\cpf.cpp
+	"../catch.hpp"
+	"../../domains/cpf.hpp"
+	<iostream>
+
+1714841047 c:\users\liberty\documents\unb\tp1\deed_manager\domains\cpf.hpp
+	"../includes/alphanumerical_code.hpp"
+	"../utils.hpp"
+	<stdexcept>
+
+1714824355 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\status.cpp
+	"../catch.hpp"
+	"../../domains/status.hpp"
+	<iostream>
+
+1714838998 c:\users\liberty\documents\unb\tp1\deed_manager\domains\status.hpp
+	"../includes/listing.hpp"
+
+1714839246 c:\users\liberty\documents\unb\tp1\deed_manager\includes\listing.hpp
+	<string>
+	<vector>
+	<stdexcept>
+
+1714836920 source:c:\users\liberty\documents\unb\tp1\deed_manager\includes\listing.cpp
+	"listing.hpp"
+	<iostream>
+
+1714863830 source:c:\users\liberty\documents\unb\tp1\deed_manager\includes\interval.cpp
+	"interval.hpp"
+
+1714863982 c:\users\liberty\documents\unb\tp1\deed_manager\includes\interval.hpp
+	<string>
+	<iostream>
+	<stdexcept>
+
+1714736778 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\percent.cpp
+	"percent.hpp"
+	<iostream>
+
+1714863723 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\payment_code.cpp
+	"payment_code.hpp"
+
+1714863723 ode.hpp"
+
+1714863689 c:\users\liberty\documents\unb\tp1\deed_manager\includes\alphanumerical_code.hpp
+	<string>
+	<stdexcept>
+
+1714863740 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\cpf.cpp
+	"cpf.hpp"
+	<iostream>
+
+1714838806 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\deed_code.cpp
+	"deed_code.hpp"
+
+1714838806 .hpp"
+
+1714840348 c:\users\liberty\documents\unb\tp1\deed_manager\domains\deed_code.hpp
+	"../includes/alphanumerical_code.hpp"
+	"../includes/listing.hpp"
+	<regex>
+	<algorithm>
+
+1714777668 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\domains\deed_code.cpp
+	"../catch.hpp"
+	"../../domains/deed_code.hpp"
+	<iostream>
+
+1714745642 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\status.cpp
+	"status.hpp"
+
+1714764947 p"
+
+1714764947 source:c:\users\liberty\documents\unb\tp1\deed_manager\domains\sector.cpp
+	"sector.hpp"
+
+1714776188 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\entities\account.cpp
+	"../catch.hpp"
+	"../../entities/account.hpp"
+	<iostream>
+
+1714842559 c:\users\liberty\documents\unb\tp1\deed_manager\entities\account.hpp
+	"../domains/cpf.hpp"
+	"../domains/name.hpp"
+	"../domains/password.hpp"
+
+1714842559 s/password.hpp"
+
+1714777696 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\entities\payment.cpp
+	"../catch.hpp"
+	"../../entities/payment.hpp"
+	"../../domains/status.hpp"
+	<iostream>
+
+1714842809 c:\users\liberty\documents\unb\tp1\deed_manager\entities\payment.hpp
+	"../domains/payment_code.hpp"
+	"../domains/percent.hpp"
+	"../domains/date.hpp"
+	"../domains/status.hpp"
+	<tuple>
+
+1714842809 s/status.hpp"
+
+1714779552 source:c:\users\liberty\documents\unb\tp1\deed_manager\tests\entities\deed.cpp
+	"../catch.hpp"
+	"../../entities/deed.hpp"
+	"../../domains/sector.hpp"
+	<iostream>
+
+1714843878 c:\users\liberty\documents\unb\tp1\deed_manager\entities\deed.hpp
+	"../domains/deed_code.hpp"
+	"../domains/name.hpp"
+	"../domains/date.hpp"
+	"../domains/sector.hpp"
+	"../domains/money.hpp"
+	<tuple>
+
+1714843878 s/money.hpp"
+
+1721313327 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/cpf.cpp
+	"cpf.hpp"
+	<iostream>
+
+1717681853 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/cpf.hpp
+	"../includes/alphanumerical_code.hpp"
+	"../utils.hpp"
+	<stdexcept>
+
+1721493438 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/alphanumerical_code.hpp
+	<string>
+	<stdexcept>
+
+1722018352 /home/gscolombo/Documentos/unb/TP1/deed_manager/utils.hpp
+	<string>
+	<vector>
+	<math.h>
+
+1722284916 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/date.cpp
+	"date.hpp"
+
+1721746589 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/date.hpp
+	<string>
+	<stdexcept>
+	<iostream>
+
+1721855964 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/deed_code.cpp
+	"deed_code.hpp"
+
+1717681968 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/deed_code.hpp
+	"../includes/alphanumerical_code.hpp"
+	"../includes/listing.hpp"
+	<regex>
+	<algorithm>
+
+1717681862 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/listing.hpp
+	<string>
+	<vector>
+	<stdexcept>
+
+1721964710 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/money.cpp
+	"money.hpp"
+
+1714840608 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/money.hpp
+	"../includes/interval.hpp"
+	"../utils.hpp"
+
+1722285553 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/interval.hpp
+	<string>
+	<iostream>
+	<stdexcept>
+
+1721313546 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/name.cpp
+	"name.hpp"
+	<iostream>
+
+1717681980 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/name.hpp
+	<string>
+	<vector>
+	<stdexcept>
+	<regex>
+	"../utils.hpp"
+
+1721313280 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/password.cpp
+	"password.hpp"
+
+1717681988 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/password.hpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<regex>
+	<algorithm>
+
+1722218722 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/payment_code.cpp
+	"payment_code.hpp"
+
+1717681830 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/payment_code.hpp
+	"../includes/alphanumerical_code.hpp"
+	<ctype.h>
+
+1714736780 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/percent.cpp
+	"percent.hpp"
+	<iostream>
+
+1714836670 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/percent.hpp
+	"../includes/interval.hpp"
+	"../utils.hpp"
+	<math.h>
+
+1717707455 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/sector.cpp
+	"sector.hpp"
+
+1714838974 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/sector.hpp
+	"../includes/listing.hpp"
+
+1714745644 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/status.cpp
+	"status.hpp"
+
+1714839000 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/status.hpp
+	"../includes/listing.hpp"
+
+1722285544 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/includes/interval.cpp
+	"interval.hpp"
+
+1717681940 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/includes/listing.cpp
+	"listing.hpp"
+	<iostream>
+
+1717683361 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/cpf.cpp
+	"cpf.hpp"
+	<iostream>
+
+1713406122 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/catch.hpp
+	<TargetConditionals.h>
+	<cstddef>
+	<ciso646>
+	<iosfwd>
+	<string>
+	<cstdint>
+	<vector>
+	<cstddef>
+	<string>
+	<iosfwd>
+	<cassert>
+	<type_traits>
+	<vector>
+	<cstddef>
+	<type_traits>
+	<string>
+	<iosfwd>
+	<cstddef>
+	<ostream>
+	<vector>
+	<string_view>
+	<utility>
+	<optional>
+	<tuple>
+	<variant>
+	<ctime>
+	<ratio>
+	<chrono>
+	<iosfwd>
+	<string>
+	<chrono>
+	<string>
+	<vector>
+	<cstddef>
+	<string>
+	<cstdint>
+	<string>
+	<string>
+	<memory>
+	<exception>
+	<string>
+	<vector>
+	<type_traits>
+	<string>
+	<iosfwd>
+	<vector>
+	<string>
+	<vector>
+	<functional>
+	<string>
+	<string>
+	<algorithm>
+	<memory>
+	<exception>
+	<memory>
+	<vector>
+	<cassert>
+	<utility>
+	<exception>
+	<memory>
+	<chrono>
+	<iosfwd>
+	<string>
+	<vector>
+	<memory>
+	<cstdint>
+	<random>
+	<string>
+	<vector>
+	<memory>
+	<string>
+	<string>
+	<vector>
+	<memory>
+	<string>
+	<memory>
+	<vector>
+	<string>
+	<string>
+	<iterator>
+	<string>
+	<iosfwd>
+	<map>
+	<set>
+	<memory>
+	<algorithm>
+	<algorithm>
+	<cstring>
+	<cfloat>
+	<cstdio>
+	<cassert>
+	<memory>
+	<ostream>
+	<vector>
+	<chrono>
+	<ratio>
+	<atomic>
+	<type_traits>
+	<utility>
+	<cassert>
+	<type_traits>
+	<utility>
+	<memory>
+	<type_traits>
+	<utility>
+	<tuple>
+	<type_traits>
+	<utility>
+	<utility>
+	<type_traits>
+	<algorithm>
+	<iterator>
+	<algorithm>
+	<functional>
+	<vector>
+	<iterator>
+	<numeric>
+	<tuple>
+	<cmath>
+	<utility>
+	<cstddef>
+	<random>
+	<algorithm>
+	<iterator>
+	<tuple>
+	<vector>
+	<cmath>
+	<algorithm>
+	<vector>
+	<string>
+	<iterator>
+	<algorithm>
+	<iterator>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+	<vector>
+	<cmath>
+	<type_traits>
+	<string>
+	<vector>
+	<memory>
+	<cassert>
+	<random>
+	<future>
+	<cmath>
+	<limits>
+	<signal.h>
+	<cassert>
+	<string>
+	<optional>
+	<cassert>
+	<ostream>
+	<sstream>
+	<vector>
+	<cctype>
+	<string>
+	<memory>
+	<set>
+	<algorithm>
+	<fstream>
+	<ctime>
+	<cstring>
+	<ostream>
+	<AfxWin.h>
+	<windows.h>
+	<sstream>
+	<unistd.h>
+	<string>
+	<android/log.h>
+	<cassert>
+	<sys/types.h>
+	<unistd.h>
+	<cstddef>
+	<ostream>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<stdexcept>
+	<vector>
+	<memory>
+	<map>
+	<cassert>
+	<cerrno>
+	<vector>
+	<string>
+	<memory>
+	<algorithm>
+	<signal.h>
+	<limits>
+	<set>
+	<crtdbg.h>
+	<set>
+	<limits>
+	<algorithm>
+	<iomanip>
+	<string>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<cstdint>
+	<cstring>
+	<sstream>
+	<type_traits>
+	<iomanip>
+	<limits>
+	<regex>
+	<cassert>
+	<stack>
+	<cstdio>
+	<iosfwd>
+	<string>
+	<cstdio>
+	<cstring>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<io.h>
+	<unistd.h>
+	<cmath>
+	<vector>
+	<set>
+	<algorithm>
+	<ios>
+	<map>
+	<string>
+	<map>
+	<vector>
+	<exception>
+	<cassert>
+	<algorithm>
+	<sstream>
+	<memory>
+	<iosfwd>
+	<cstdlib>
+	<iomanip>
+	<set>
+	<iterator>
+	<vector>
+	<cstdio>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<memory>
+	<algorithm>
+	<ostream>
+	<cstring>
+	<cctype>
+	<vector>
+	<algorithm>
+	<ostream>
+	<cstring>
+	<cstdint>
+	<sstream>
+	<cctype>
+	<exception>
+	<algorithm>
+	<sstream>
+	<algorithm>
+	<sstream>
+	<algorithm>
+	<cassert>
+	<stdexcept>
+	<memory>
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	<memory>
+	<chrono>
+	<cmath>
+	<iomanip>
+	<cstddef>
+	<exception>
+	<exception>
+	<ostream>
+	<iomanip>
+	<type_traits>
+	<cstring>
+	<cfloat>
+	<cstdio>
+	<cassert>
+	<memory>
+	<cfloat>
+	<cstdio>
+	<cassert>
+	<sstream>
+	<ctime>
+	<algorithm>
+	<iomanip>
+	<cassert>
+
+1717555124 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/date.cpp
+	"date.hpp"
+
+1717683911 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/deed_code.cpp
+	"deed_code.hpp"
+
+1717684117 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/money.cpp
+	"money.hpp"
+
+1717684465 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/name.cpp
+	"name.hpp"
+
+1717684580 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/password.cpp
+	"password.hpp"
+
+1717684710 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/payment_code.cpp
+	"payment_code.hpp"
+
+1717685106 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/percent.cpp
+	"percent.hpp"
+
+1717707467 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/sector.cpp
+	"sector.hpp"
+
+1717708680 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/status.cpp
+	"status.hpp"
+
+1717708863 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/account.cpp
+	"account.hpp"
+
+1721591539 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/account.hpp
+	"../domains/cpf.hpp"
+	"../domains/name.hpp"
+	"../domains/password.hpp"
+
+1717708873 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/deed.cpp
+	"deed.hpp"
+
+1722044348 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/deed.hpp
+	"../domains/deed_code.hpp"
+	"../domains/name.hpp"
+	"../domains/date.hpp"
+	"../domains/sector.hpp"
+	"../domains/money.hpp"
+	<tuple>
+
+1717708885 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/payment.cpp
+	"payment.hpp"
+
+1714842810 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/payment.hpp
+	"../domains/payment_code.hpp"
+	"../domains/percent.hpp"
+	"../domains/date.hpp"
+	"../domains/status.hpp"
+	<tuple>
+
+1714865004 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/tests.cpp
+	"catch.hpp"
+	<iostream>
+
+1722018347 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/utils.cpp
+	"utils.hpp"
+	<iostream>
+
+1717683344 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/test.cpp
+	"tests/domains/cpf.hpp"
+
+1717684939 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/unittest.cpp
+	"unittest.hpp"
+
+1717683659 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/unittest.hpp
+	<string>
+	<vector>
+	<utility>
+	<iostream>
+
+1717683654 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/cpf.hpp
+	"../unittest.hpp"
+	"../../domains/cpf.hpp"
+
+1717684056 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/money.hpp
+	"../unittest.hpp"
+	"../../domains/money.hpp"
+	<random>
+	<utility>
+
+1717684521 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/date.hpp
+	"../unittest.hpp"
+	"../../domains/date.hpp"
+
+1717683868 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/deed_code.hpp
+	"../unittest.hpp"
+	"../../domains/deed_code.hpp"
+
+1717684572 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/password.hpp
+	"../unittest.hpp"
+	"../../domains/password.hpp"
+
+1717684494 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/name.hpp
+	"../unittest.hpp"
+	"../../domains/name.hpp"
+
+1717684722 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/payment_code.hpp
+	"../unittest.hpp"
+	"../../domains/payment_code.hpp"
+
+1717685097 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/percent.hpp
+	"../unittest.hpp"
+	"../../domains/percent.hpp"
+
+1717707329 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/sector.hpp
+	"../unittest.hpp"
+	"../../domains/sector.hpp"
+	<algorithm>
+
+1717708668 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/domains/status.hpp
+	"../unittest.hpp"
+	"../../domains/status.hpp"
+	<algorithm>
+
+1717708839 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/account.hpp
+	"../unittest.hpp"
+	"../../entities/account.hpp"
+
+1717708829 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/deed.hpp
+	"../unittest.hpp"
+	"../../entities/deed.hpp"
+	"../../domains/sector.hpp"
+
+1717708844 /home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/payment.hpp
+	"../unittest.hpp"
+	"../../entities/payment.hpp"
+	"../../domains/status.hpp"
+
+1717709007 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/test.cpp
+	"domains/cpf.hpp"
+	"domains/date.hpp"
+	"domains/deed_code.hpp"
+	"domains/money.hpp"
+	"domains/name.hpp"
+	"domains/password.hpp"
+	"domains/payment_code.hpp"
+	"domains/percent.hpp"
+	"domains/sector.hpp"
+	"domains/status.hpp"
+	"entities/deed.hpp"
+	"entities/account.hpp"
+	"entities/payment.hpp"
+
+1720922417 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/ui.cpp
+	"ui.hpp"
+
+1720922103 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/ui.hpp
+	<ncurses.h>
+
+1721746458 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/main.cpp
+	"header.hpp"
+	"authentication/authentication_menu.hpp"
+	"operations/service_menu.hpp"
+
+1720670801 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/ui.cpp
+	"ui.hpp"
+
+1720882429 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/menu.cpp
+	"menu.hpp"
+
+1720902871 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/menu.hpp
+	"window.hpp"
+	<vector>
+	<array>
+	<string>
+
+1684262727 /usr/include/ncursesw/ncurses.h
+	<ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<unctrl.h>
+
+1684262727 /usr/include/ncursesw/ncurses_dll.h
+
+1684262727 /usr/include/ncursesw/unctrl.h
+	<curses.h>
+
+1684262727 /usr/include/ncursesw/curses.h
+	<ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<unctrl.h>
+
+1720923062 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/window.cpp
+
+1720923056 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/window.hpp
+	"ui.hpp"
+	<array>
+
+1720900948 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/list.cpp
+	"list.hpp"
+
+1720902880 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/list.hpp
+	"window.hpp"
+	<list>
+	<string>
+	<functional>
+
+1720924848 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/form.cpp
+	"form.hpp"
+
+1720923404 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/form.hpp
+	"window.hpp"
+	<vector>
+	<string>
+	<map>
+	<utility>
+	<functional>
+	<any>
+
+1722191876 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/presentation_logic/form.cpp
+	"presentation_logic/form.hpp"
+	<iostream>
+
+1721850961 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/form.hpp
+	"window.hpp"
+	<vector>
+	<string>
+	<map>
+	<utility>
+	<regex>
+	<limits>
+
+1721493255 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/window.hpp
+	"ui.hpp"
+	<array>
+
+1721492994 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/ui.hpp
+	<ncurses.h>
+	<clocale>
+
+1721488583 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/presentation_logic/menu.cpp
+	"presentation_logic/menu.hpp"
+
+1721489185 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/menu.hpp
+	"window.hpp"
+	<vector>
+	<array>
+	<string>
+
+1721853092 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/presentation_logic/ui.cpp
+	"presentation_logic/ui.hpp"
+
+1721355713 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/presentation_logic/window.cpp
+	"presentation_logic/window.hpp"
+
+1721592658 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/header.cpp
+	"header.hpp"
+
+1721592654 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/header.hpp
+	"presentation_logic/window.hpp"
+	<string>
+
+1721137286 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/login.cpp
+	"login.hpp"
+
+1721137352 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/login.hpp
+	"presentation_logic/form.hpp"
+	"cpf.hpp"
+	"password.hpp"
+	"account.hpp"
+	<chrono>
+	<thread>
+
+1721137864 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication_menu.cpp
+	"authentication_menu.hpp"
+
+1721137814 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication_menu.hpp
+	"login.hpp"
+	"register.hpp"
+	"presentation_logic/menu.hpp"
+
+1721137232 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/register.cpp
+	"register.hpp"
+
+1721137922 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/register.hpp
+	"presentation_logic/form.hpp"
+	"name.hpp"
+	"cpf.hpp"
+	"password.hpp"
+	"account.hpp"
+	<chrono>
+	<thread>
+
+1721400192 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/authentication_menu.hpp
+	"base_menu.hpp"
+	"login.hpp"
+	"register.hpp"
+	"presentation_logic/menu.hpp"
+
+1721507345 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/login.hpp
+	"account.hpp"
+	"presentation_logic/form.hpp"
+	"authentication/authenticate_user.hpp"
+
+1721508369 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/register.hpp
+	"presentation_logic/form.hpp"
+	"account.hpp"
+	"authentication/register_user.hpp"
+
+1721508381 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication/authentication_menu.cpp
+	"authentication/authentication_menu.hpp"
+
+1721507366 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication/login.cpp
+	"authentication/login.hpp"
+
+1721508323 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication/register.cpp
+	"authentication/register.hpp"
+
+1722216723 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/service_menu.cpp
+	"operations/service_menu.hpp"
+
+1722211273 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/service_menu.hpp
+	"base_menu.hpp"
+	"header.hpp"
+	"operations/account_menu.hpp"
+	"operations/deed_menu.hpp"
+	"operations/payment_menu.hpp"
+
+1721505944 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/authentication/authentication.hpp
+	"account.hpp"
+	<map>
+
+1721486788 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/authentication/authenticate_user.hpp
+	"authentication/authentication.hpp"
+	"accounts_table.hpp"
+
+1721569418 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/services/src/authentication/authenticate_user.cpp
+	"authentication/authenticate_user.hpp"
+
+1721506001 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/services/src/authentication/register_user.cpp
+	"authentication/register_user.hpp"
+
+1721486793 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/authentication/register_user.hpp
+	"authentication/registration.hpp"
+	"accounts_table.hpp"
+
+1721505948 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/authentication/registration.hpp
+	"account.hpp"
+	<map>
+
+1722022232 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/db/src/accounts_table.cpp
+	"accounts_table.hpp"
+
+1722022298 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/accounts_table.hpp
+	"database.hpp"
+	"query_database.hpp"
+	"account.hpp"
+	<vector>
+
+1721876978 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/database.hpp
+	<sqlite3.h>
+	<iostream>
+
+1722022282 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/query_database.hpp
+	<map>
+	<string>
+	<list>
+	"account.hpp"
+	"deed.hpp"
+	"payment.hpp"
+
+1722387471 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/account_menu.cpp
+	"operations/account_menu.hpp"
+
+1722387495 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/account_menu.hpp
+	"base_menu.hpp"
+	"header.hpp"
+	"presentation_logic/list.hpp"
+	"presentation_logic/form.hpp"
+	"interfaces/operations/account_operations.hpp"
+	"services/includes/operations/account_operations.hpp"
+
+1721597819 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/account_operations.hpp
+	<list>
+	"account.hpp"
+
+1721603711 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/account_operations.hpp
+	"interfaces/operations/account_operations.hpp"
+	"accounts_table.hpp"
+
+1722387623 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/base_menu.hpp
+	<memory>
+	"account.hpp"
+	"presentation_logic/menu.hpp"
+
+1722022223 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/services/src/operations/account_operations.cpp
+	"services/includes/operations/account_operations.hpp"
+
+1721489188 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/list.hpp
+	"window.hpp"
+	<list>
+	<string>
+	<iostream>
+
+1721508498 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/base_menu.cpp
+	"base_menu.hpp"
+
+1722349820 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/deed_menu.cpp
+	"operations/deed_menu.hpp"
+
+1722197042 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/deed_menu.hpp
+	"base_menu.hpp"
+	<list>
+	<tuple>
+	"utils.hpp"
+	"services/includes/operations/deed_operations.hpp"
+	"presentation_logic/form.hpp"
+	"presentation_logic/list.hpp"
+
+1722217920 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/deed_operations.hpp
+	"query_database.hpp"
+	"account.hpp"
+	"deed.hpp"
+
+1722217524 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/deed_operations.hpp
+	"interfaces/operations/deed_operations.hpp"
+	"deeds_table.hpp"
+
+1722217477 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/services/src/operations/deed_operations.cpp
+	"services/includes/operations/deed_operations.hpp"
+
+1722349668 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/db/src/deeds_table.cpp
+	"deeds_table.hpp"
+
+1722212359 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/deeds_table.hpp
+	"database.hpp"
+	"query_database.hpp"
+	"account.hpp"
+
+1722218345 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/payment_menu.hpp
+	"base_menu.hpp"
+	<list>
+	<vector>
+	"payment.hpp"
+	"deed.hpp"
+	"presentation_logic/form.hpp"
+	"presentation_logic/list.hpp"
+	"services/includes/operations/deed_operations.hpp"
+	"services/includes/operations/payment_operations.hpp"
+
+1722287427 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/payment_operations.hpp
+	"interfaces/operations/payment_operations.hpp"
+	"payments_table.hpp"
+
+1722287634 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/payment_operations.hpp
+	"query_database.hpp"
+	"account.hpp"
+	"deed.hpp"
+	"payment.hpp"
+
+1722212470 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/payments_table.hpp
+	"database.hpp"
+	"query_database.hpp"
+
+1722346107 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/payment_menu.cpp
+	"operations/payment_menu.hpp"
+
+1722287873 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/services/src/operations/payment_operations.cpp
+	"services/includes/operations/payment_operations.hpp"
+
+1722287932 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/db/src/payments_table.cpp
+	"payments_table.hpp"
+

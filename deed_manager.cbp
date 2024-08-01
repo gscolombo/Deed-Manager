@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="deed_manager" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Headers/" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/deed_manager" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-std=c++17" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/deed_manager" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++17" />
+					<Add directory="view/includes" />
+					<Add directory="view/src" />
+					<Add directory="../../../../../../usr/include/ncursesw" />
+					<Add directory="domains" />
+					<Add directory="entities" />
+					<Add directory="interfaces" />
+					<Add directory="services/includes" />
+					<Add directory="services/src" />
+					<Add directory="db/includes" />
+					<Add directory="db/src" />
+					<Add directory="db" />
+					<Add directory="../deed_manager" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lncursesw -ltinfo -lsqlite3" />
+					<Add directory="../../../../../../usr/include/ncursesw" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="db/database.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="db/includes/accounts_table.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="db/includes/deeds_table.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="db/includes/payments_table.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="db/src/accounts_table.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="db/src/deeds_table.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="db/src/payments_table.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="domains/cpf.cpp" />
+		<Unit filename="domains/cpf.hpp" />
+		<Unit filename="domains/date.cpp" />
+		<Unit filename="domains/date.hpp" />
+		<Unit filename="domains/deed_code.cpp" />
+		<Unit filename="domains/deed_code.hpp" />
+		<Unit filename="domains/money.cpp" />
+		<Unit filename="domains/money.hpp" />
+		<Unit filename="domains/name.cpp" />
+		<Unit filename="domains/name.hpp" />
+		<Unit filename="domains/password.cpp" />
+		<Unit filename="domains/password.hpp" />
+		<Unit filename="domains/payment_code.cpp" />
+		<Unit filename="domains/payment_code.hpp" />
+		<Unit filename="domains/percent.cpp" />
+		<Unit filename="domains/percent.hpp" />
+		<Unit filename="domains/sector.cpp" />
+		<Unit filename="domains/sector.hpp" />
+		<Unit filename="domains/status.cpp" />
+		<Unit filename="domains/status.hpp" />
+		<Unit filename="entities/account.hpp" />
+		<Unit filename="entities/deed.hpp" />
+		<Unit filename="entities/payment.hpp" />
+		<Unit filename="includes/alphanumerical_code.hpp" />
+		<Unit filename="includes/interval.cpp" />
+		<Unit filename="includes/interval.hpp" />
+		<Unit filename="includes/listing.cpp" />
+		<Unit filename="includes/listing.hpp" />
+		<Unit filename="interfaces/authentication/authentication.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="interfaces/authentication/registration.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="interfaces/operations/account_operations.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="interfaces/operations/deed_operations.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="interfaces/operations/payment_operations.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="interfaces/query_database.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/includes/authentication/authenticate_user.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/includes/authentication/register_user.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/includes/operations/account_operations.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/includes/operations/deed_operations.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/includes/operations/payment_operations.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/src/authentication/authenticate_user.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/src/authentication/register_user.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/src/operations/account_operations.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/src/operations/deed_operations.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="services/src/operations/payment_operations.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tests/domains/cpf.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/cpf.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/date.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/date.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/deed_code.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/deed_code.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/money.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/money.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/name.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/name.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/password.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/password.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/payment_code.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/payment_code.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/percent.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/percent.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/sector.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/sector.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/status.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/domains/status.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/entities/account.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/entities/account.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/entities/deed.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/entities/deed.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/entities/payment.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/entities/payment.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/test.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/unittest.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="tests/unittest.hpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="utils.cpp" />
+		<Unit filename="utils.hpp" />
+		<Unit filename="view/includes/authentication/authentication_menu.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/authentication/login.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/authentication/register.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/base_menu.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/header.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/operations/account_menu.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/operations/deed_menu.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/operations/payment_menu.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/operations/service_menu.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/presentation_logic/form.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/presentation_logic/list.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/presentation_logic/menu.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/presentation_logic/ui.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/includes/presentation_logic/window.hpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/authentication/authentication_menu.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/authentication/login.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/authentication/register.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/base_menu.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/header.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/operations/deed_menu.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/operations/payment_menu.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/operations/service_menu.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/presentation_logic/form.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/presentation_logic/menu.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/presentation_logic/ui.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="view/src/presentation_logic/window.cpp">
+			<Option target="Release" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
