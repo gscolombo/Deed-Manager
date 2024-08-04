@@ -1,0 +1,8 @@
+<map id="BaseMenu" name="BaseMenu">
+<area shape="rect" id="node1" title="Base class for all menus." alt="" coords="295,5,379,32"/>
+<area shape="rect" id="node2" href="$d5/dfb/classAccountMenu.html" title="This class represents the account menu UI." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node3" href="$d4/ddf/classAuthenticationMenu.html" title="The AuthenticationMenu class represents the main menu of the application in the authentication step." alt="" coords="132,80,269,107"/>
+<area shape="rect" id="node4" href="$db/dda/classDeedMenu.html" title="Menu class for deed operations." alt="" coords="294,80,379,107"/>
+<area shape="rect" id="node5" href="$d4/dc3/classPaymentMenu.html" title="Menu class for payment operations." alt="" coords="403,80,510,107"/>
+<area shape="rect" id="node6" href="$d9/dbf/classServicesMenu.html" title="The ServicesMenu class is a menu that provides access to various services." alt="" coords="535,80,640,107"/>
+</map>

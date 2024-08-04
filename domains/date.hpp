@@ -8,7 +8,7 @@ using namespace std;
 
 /**
  * @class Date
- * Class for date domain representation.
+ * @brief Class for date domain representation.
 */
 class Date {
     private:

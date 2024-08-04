@@ -7,10 +7,14 @@ using namespace std;
 
 /**
  * @class AlphanumericalCode
- * Abstract class for alphanumerical codes.
+ * @brief Abstract class for alphanumerical codes.
 */
 class AlphanumericalCode {
     private:
+            /**
+             * @private @memberof AlphanumericalCode
+             * Alphanumerical code to be validated.
+            */
             string code;
     protected:
             /**
@@ -22,7 +26,18 @@ class AlphanumericalCode {
             virtual void validate(string&) const = 0;
             virtual ~AlphanumericalCode(){};
     public:
+            /**
+             * @brief Get the alphanumerical code.
+             * 
+             * @return The code string.
+             */
             string getCode() const;
+
+            /**
+             * @brief Set the alphanumerical code.
+             * 
+             * @param code The code string to set.
+             */
             void setCode(string&);
 
 };

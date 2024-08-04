@@ -1,0 +1,6 @@
+<map id="DeedOperations" name="DeedOperations">
+<area shape="rect" id="node1" title="Class for deed operations." alt="" coords="54,184,170,211"/>
+<area shape="rect" id="node2" href="$d2/d76/classIDeedOperations.html" title="Abstract class for deed related operations." alt="" coords="5,95,125,121"/>
+<area shape="rect" id="node3" href="$d3/d04/classIQueryDatabase.html" title="Abstract class for operations related with database querying." alt="" coords="149,95,267,121"/>
+<area shape="rect" id="node4" href="$d1/db9/structResponse.html" title="Struct representing a database response." alt="" coords="167,5,249,32"/>
+</map>

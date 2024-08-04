@@ -9,7 +9,7 @@
 
 /**
  * @class DeedCode
- * Class for deed code domain representation.
+ * @brief Class for deed code domain representation.
 */
 class DeedCode : public AlphanumericalCode, public StringListing {
     private:

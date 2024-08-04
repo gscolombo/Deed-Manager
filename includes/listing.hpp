@@ -8,12 +8,21 @@ using namespace std;
 
 /**
  * @class StringListing
- * Base class for listings.
+ * @brief Base class for listings.
 */
 class StringListing {
     private:
+            /**
+             * @private @memberof StringListing
+             * @brief The current index of the listing vector.
+             * @details If the index is set to -1, it means that no item is to be retrieved.
+             */
             int index = -1;
     protected:
+            /**
+             * @protected @memberof StringListing
+             * @brief The vector containing the list items.
+             */
             vector<string> listing;
     public:
             /**

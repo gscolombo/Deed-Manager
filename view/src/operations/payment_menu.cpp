@@ -175,7 +175,7 @@ void PaymentMenu::update(string& pk, string& fk) {
                 }
                 if (any) {
                     if (!paymentOperations->update(deed, data)) {
-                        log = paymentOperations->info;
+                        log = paymentOperations->getInfo();
                         goto i;
                     }
                     baseLog = "Pagemento atualizado com sucesso!";
@@ -205,7 +205,7 @@ void PaymentMenu::del(string& pk, string& fk) {
 
     if (!confirm.getSelected()) {
         if (!paymentOperations->del(data))
-            baseLog = paymentOperations->info;
+            baseLog = paymentOperations->getInfo();
         else
             baseLog = "Pagamento deletado com sucesso.";
     }
@@ -267,7 +267,7 @@ void PaymentMenu::create() {
                 }
                 if (fulfilled) {
                     if (!paymentOperations->create(deed, data)) {
-                        log = paymentOperations->info;
+                        log = paymentOperations->getInfo();
                         goto i;
                     }
                     baseLog = "Pagamento criado com sucesso!";

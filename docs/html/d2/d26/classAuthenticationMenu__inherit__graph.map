@@ -1,0 +1,4 @@
+<map id="AuthenticationMenu" name="AuthenticationMenu">
+<area shape="rect" id="node1" title="The AuthenticationMenu class represents the main menu of the application in the authentication step." alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node2" href="$d1/d55/classBaseMenu.html" title="Base class for all menus." alt="" coords="32,5,116,32"/>
+</map>

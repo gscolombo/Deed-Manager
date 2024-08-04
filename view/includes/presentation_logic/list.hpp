@@ -8,13 +8,40 @@
 
 using namespace std;
 
+/**
+ * @class List
+ * @brief A class representing a List of items displayed in a ncurses window.
+ *
+ * This class is a template class that represents a list of items to be
+ * displayed in a ncurses window. It takes a list of items of type T and
+ * displays them in the window. It takes an optional display function that
+ * converts the items to strings for display. If no display function is
+ * provided, it uses the default conversion to string of the item.
+ *
+ * @tparam T The type of items in the list.
+ */
 template <typename T>
 class List: public Window {
     private:
+        /**
+         * List of items to be displayed in the window.
+         */
         list<T> items;
 
+        /**
+         * Function pointer to a function that converts the items to strings
+         * for display.
+         */
         string (*display)(T) = nullptr;
     public:
+        /**
+         * Constructor for List class.
+         *
+         * @param items List of items to be displayed.
+         * @param p Position of the window.
+         * @param d Dimensions of the window.
+         * @param fn Pointer to a function that converts the items to strings.
+         */
         List(list<T> items, array<int,2> p = {}, array<int,2> d = {},
             string (*fn)(T) = nullptr) : Window(p,d)
              {
@@ -27,6 +54,9 @@ class List: public Window {
                 curs_set(0);
              };
 
+        /**
+         * Display the items in the window.
+         */
         void show() const {
             WINDOW* ol = getWindow();
 
@@ -39,6 +69,9 @@ class List: public Window {
             wrefresh(ol);
         };
 
+        /**
+         * Hide the window by erasing it and refreshing it.
+         */
         void hide() const {
             WINDOW* ol = getWindow();
 

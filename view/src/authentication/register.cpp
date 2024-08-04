@@ -2,10 +2,10 @@
 
 bool Register::createAccount(Data& data) {
     if (!IRegister->createAccount(data)){
-        updateInfo(IRegister->info.c_str());
+        updateInfo(IRegister->getInfo().c_str());
         return false;
     }
-    response = IRegister->account;
+    response = IRegister->getAccount();
     return true;
 }
 

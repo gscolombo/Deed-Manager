@@ -1,0 +1,5 @@
+<map id="DeedsTable" name="DeedsTable">
+<area shape="rect" id="node1" title="Class representing a deed table in the database." alt="" coords="61,80,151,107"/>
+<area shape="rect" id="node2" href="$de/d03/classDatabase.html" title="Class representing a database connection." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node3" href="$d3/d04/classIQueryDatabase.html" title="Abstract class for operations related with database querying." alt="" coords="109,5,226,32"/>
+</map>

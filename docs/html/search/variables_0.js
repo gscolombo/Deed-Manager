@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['secondname_0',['secondName',['../d0/d7c/class_name.html#abcce1cf483fdd99f944a15dd09c0c120',1,'Name']]],
-  ['sectors_1',['sectors',['../d0/dab/class_sector.html#a768ffaca679c39aeda177beffa1493f3',1,'Sector']]],
-  ['status_2',['status',['../d0/de5/class_status.html#a7f55a74a9029c03370fdcfbe9440a968',1,'Status']]]
+  ['account_401',['account',['../d4/da8/classIAuthentication.html#a4839df68cd3b6898ef5c2d3d6805159c',1,'IAuthentication::account()'],['../da/d26/classIRegistration.html#adb6e05d9ed27d8a7e38a9b4355c35a43',1,'IRegistration::account()'],['../d7/de7/classIAccountOperations.html#a469aa5ca817e55867b5e976d4e4c1839',1,'IAccountOperations::account()']]],
+  ['accounts_402',['accounts',['../d1/db9/structResponse.html#abd2b1c7edbbec510b6cd7717595b62d1',1,'Response']]]
 ];

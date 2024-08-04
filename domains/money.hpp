@@ -7,7 +7,7 @@ using namespace utils;
 
 /**
  * @class Money
- * Class for money domain representation.
+ * @brief Class for money domain representation.
 */
 class Money : public Interval {
     public:

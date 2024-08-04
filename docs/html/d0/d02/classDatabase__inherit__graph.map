@@ -1,0 +1,6 @@
+<map id="Database" name="Database">
+<area shape="rect" id="node1" title="Class representing a database connection." alt="" coords="144,5,223,32"/>
+<area shape="rect" id="node2" href="$da/d03/classAccountsTable.html" title="This class represents a table of accounts in the database." alt="" coords="5,80,113,107"/>
+<area shape="rect" id="node3" href="$d9/dfc/classDeedsTable.html" title="Class representing a deed table in the database." alt="" coords="138,80,229,107"/>
+<area shape="rect" id="node4" href="$d8/d9a/classPaymentsTable.html" title="Class representing a payments table in the database." alt="" coords="253,80,365,107"/>
+</map>

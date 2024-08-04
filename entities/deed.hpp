@@ -11,16 +11,27 @@
 
 /**
  * @class Deed
- * Class for deed entity representation.
+ * @brief Class for deed entity representation.
 */
 class Deed {
     private:
-            DeedCode deed;
-            Name emitter;
-            Sector sector;
-            Date emissionDate;
-            Date expirationDate;
-            Money value;
+        /** @brief Deed identifier. */
+        DeedCode deed;
+
+        /** @brief Name of the emitter. */
+        Name emitter;
+
+        /** @brief Sector of the deed. */
+        Sector sector;
+
+        /** @brief Date of the deed emission. */
+        Date emissionDate;
+
+        /** @brief Date of the deed expiration. */
+        Date expirationDate;
+
+        /** @brief Value of the deed. */
+        Money value;
     public:
             /**
              * Constructor for the Deed class.

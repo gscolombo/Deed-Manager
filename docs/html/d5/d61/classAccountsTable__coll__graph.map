@@ -1,0 +1,6 @@
+<map id="AccountsTable" name="AccountsTable">
+<area shape="rect" id="node1" title="This class represents a table of accounts in the database." alt="" coords="7,171,115,197"/>
+<area shape="rect" id="node2" href="$de/d03/classDatabase.html" title="Class representing a database connection." alt="" coords="5,95,84,121"/>
+<area shape="rect" id="node3" href="$d3/d04/classIQueryDatabase.html" title="Abstract class for operations related with database querying." alt="" coords="109,95,226,121"/>
+<area shape="rect" id="node4" href="$d1/db9/structResponse.html" title="Struct representing a database response." alt="" coords="127,5,208,32"/>
+</map>

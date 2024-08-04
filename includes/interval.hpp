@@ -8,12 +8,22 @@ using namespace std;
 
 /**
  * @class Interval
- * Abstract class for intervals with defined bound.
+ * @brief Abstract class for intervals with defined bound.
 */
 class Interval {
     private:
+            /**
+             * @private @memberof Interval
+             * The minimum limit of the interval
+            */
             double MIN_LIMIT;
+
+            /**
+             * @private @memberof Interval
+             * The maximum limit of the interval
+            */
             double MAX_LIMIT;
+            
             /**
              * @private @memberof Interval
              * Validate that the value is in the allowed range

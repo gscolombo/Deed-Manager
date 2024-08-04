@@ -540,12 +540,12 @@
 	"cpf.hpp"
 	<iostream>
 
-1717681853 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/cpf.hpp
+1722740226 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/cpf.hpp
 	"../includes/alphanumerical_code.hpp"
 	"../utils.hpp"
 	<stdexcept>
 
-1721493438 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/alphanumerical_code.hpp
+1722740695 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/alphanumerical_code.hpp
 	<string>
 	<stdexcept>
 
@@ -557,7 +557,7 @@
 1722284916 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/date.cpp
 	"date.hpp"
 
-1721746589 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/date.hpp
+1722740242 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/date.hpp
 	<string>
 	<stdexcept>
 	<iostream>
@@ -565,13 +565,13 @@
 1721855964 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/deed_code.cpp
 	"deed_code.hpp"
 
-1717681968 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/deed_code.hpp
+1722740247 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/deed_code.hpp
 	"../includes/alphanumerical_code.hpp"
 	"../includes/listing.hpp"
 	<regex>
 	<algorithm>
 
-1717681862 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/listing.hpp
+1722740799 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/listing.hpp
 	<string>
 	<vector>
 	<stdexcept>
@@ -579,11 +579,11 @@
 1721964710 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/money.cpp
 	"money.hpp"
 
-1714840608 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/money.hpp
+1722740252 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/money.hpp
 	"../includes/interval.hpp"
 	"../utils.hpp"
 
-1722285553 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/interval.hpp
+1722740724 /home/gscolombo/Documentos/unb/TP1/deed_manager/includes/interval.hpp
 	<string>
 	<iostream>
 	<stdexcept>
@@ -592,7 +592,7 @@
 	"name.hpp"
 	<iostream>
 
-1717681980 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/name.hpp
+1722740257 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/name.hpp
 	<string>
 	<vector>
 	<stdexcept>
@@ -602,7 +602,7 @@
 1721313280 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/password.cpp
 	"password.hpp"
 
-1717681988 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/password.hpp
+1722740263 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/password.hpp
 	<iostream>
 	<string>
 	<stdexcept>
@@ -612,7 +612,7 @@
 1722218722 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/payment_code.cpp
 	"payment_code.hpp"
 
-1717681830 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/payment_code.hpp
+1722740268 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/payment_code.hpp
 	"../includes/alphanumerical_code.hpp"
 	<ctype.h>
 
@@ -620,7 +620,7 @@
 	"percent.hpp"
 	<iostream>
 
-1714836670 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/percent.hpp
+1722740273 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/percent.hpp
 	"../includes/interval.hpp"
 	"../utils.hpp"
 	<math.h>
@@ -628,13 +628,13 @@
 1717707455 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/sector.cpp
 	"sector.hpp"
 
-1714838974 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/sector.hpp
+1722740280 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/sector.hpp
 	"../includes/listing.hpp"
 
 1714745644 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/domains/status.cpp
 	"status.hpp"
 
-1714839000 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/status.hpp
+1722740448 /home/gscolombo/Documentos/unb/TP1/deed_manager/domains/status.hpp
 	"../includes/listing.hpp"
 
 1722285544 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/includes/interval.cpp
@@ -973,7 +973,7 @@
 1717708863 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/account.cpp
 	"account.hpp"
 
-1721591539 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/account.hpp
+1722740494 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/account.hpp
 	"../domains/cpf.hpp"
 	"../domains/name.hpp"
 	"../domains/password.hpp"
@@ -981,7 +981,7 @@
 1717708873 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/deed.cpp
 	"deed.hpp"
 
-1722044348 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/deed.hpp
+1722740552 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/deed.hpp
 	"../domains/deed_code.hpp"
 	"../domains/name.hpp"
 	"../domains/date.hpp"
@@ -992,7 +992,7 @@
 1717708885 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/tests/entities/payment.cpp
 	"payment.hpp"
 
-1714842810 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/payment.hpp
+1722740614 /home/gscolombo/Documentos/unb/TP1/deed_manager/entities/payment.hpp
 	"../domains/payment_code.hpp"
 	"../domains/percent.hpp"
 	"../domains/date.hpp"
@@ -1175,7 +1175,7 @@
 	"presentation_logic/form.hpp"
 	<iostream>
 
-1721850961 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/form.hpp
+1722694997 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/form.hpp
 	"window.hpp"
 	<vector>
 	<string>
@@ -1184,18 +1184,18 @@
 	<regex>
 	<limits>
 
-1721493255 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/window.hpp
+1722694543 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/window.hpp
 	"ui.hpp"
 	<array>
 
-1721492994 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/ui.hpp
+1722694701 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/ui.hpp
 	<ncurses.h>
 	<clocale>
 
 1721488583 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/presentation_logic/menu.cpp
 	"presentation_logic/menu.hpp"
 
-1721489185 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/menu.hpp
+1722695166 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/menu.hpp
 	"window.hpp"
 	<vector>
 	<array>
@@ -1210,7 +1210,7 @@
 1721592658 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/header.cpp
 	"header.hpp"
 
-1721592654 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/header.hpp
+1722741213 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/header.hpp
 	"presentation_logic/window.hpp"
 	<string>
 
@@ -1245,18 +1245,18 @@
 	<chrono>
 	<thread>
 
-1721400192 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/authentication_menu.hpp
+1722695795 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/authentication_menu.hpp
 	"base_menu.hpp"
 	"login.hpp"
 	"register.hpp"
 	"presentation_logic/menu.hpp"
 
-1721507345 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/login.hpp
+1722696469 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/login.hpp
 	"account.hpp"
 	"presentation_logic/form.hpp"
 	"authentication/authenticate_user.hpp"
 
-1721508369 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/register.hpp
+1722696689 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/authentication/register.hpp
 	"presentation_logic/form.hpp"
 	"account.hpp"
 	"authentication/register_user.hpp"
@@ -1264,27 +1264,27 @@
 1721508381 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication/authentication_menu.cpp
 	"authentication/authentication_menu.hpp"
 
-1721507366 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication/login.cpp
+1722635224 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication/login.cpp
 	"authentication/login.hpp"
 
-1721508323 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication/register.cpp
+1722635219 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/authentication/register.cpp
 	"authentication/register.hpp"
 
 1722216723 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/service_menu.cpp
 	"operations/service_menu.hpp"
 
-1722211273 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/service_menu.hpp
+1722695805 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/service_menu.hpp
 	"base_menu.hpp"
 	"header.hpp"
 	"operations/account_menu.hpp"
 	"operations/deed_menu.hpp"
 	"operations/payment_menu.hpp"
 
-1721505944 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/authentication/authentication.hpp
+1722689120 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/authentication/authentication.hpp
 	"account.hpp"
 	<map>
 
-1721486788 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/authentication/authenticate_user.hpp
+1722736754 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/authentication/authenticate_user.hpp
 	"authentication/authentication.hpp"
 	"accounts_table.hpp"
 
@@ -1294,28 +1294,28 @@
 1721506001 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/services/src/authentication/register_user.cpp
 	"authentication/register_user.hpp"
 
-1721486793 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/authentication/register_user.hpp
+1722736773 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/authentication/register_user.hpp
 	"authentication/registration.hpp"
 	"accounts_table.hpp"
 
-1721505948 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/authentication/registration.hpp
+1722689162 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/authentication/registration.hpp
 	"account.hpp"
 	<map>
 
 1722022232 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/db/src/accounts_table.cpp
 	"accounts_table.hpp"
 
-1722022298 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/accounts_table.hpp
+1722738948 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/accounts_table.hpp
 	"database.hpp"
 	"query_database.hpp"
 	"account.hpp"
 	<vector>
 
-1721876978 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/database.hpp
+1722737645 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/database.hpp
 	<sqlite3.h>
 	<iostream>
 
-1722022282 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/query_database.hpp
+1722693931 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/query_database.hpp
 	<map>
 	<string>
 	<list>
@@ -1323,10 +1323,10 @@
 	"deed.hpp"
 	"payment.hpp"
 
-1722387471 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/account_menu.cpp
+1722635255 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/account_menu.cpp
 	"operations/account_menu.hpp"
 
-1722387495 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/account_menu.hpp
+1722742111 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/account_menu.hpp
 	"base_menu.hpp"
 	"header.hpp"
 	"presentation_logic/list.hpp"
@@ -1334,15 +1334,15 @@
 	"interfaces/operations/account_operations.hpp"
 	"services/includes/operations/account_operations.hpp"
 
-1721597819 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/account_operations.hpp
+1722689091 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/account_operations.hpp
 	<list>
 	"account.hpp"
 
-1721603711 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/account_operations.hpp
+1722736954 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/account_operations.hpp
 	"interfaces/operations/account_operations.hpp"
 	"accounts_table.hpp"
 
-1722387623 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/base_menu.hpp
+1722695820 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/base_menu.hpp
 	<memory>
 	"account.hpp"
 	"presentation_logic/menu.hpp"
@@ -1350,7 +1350,7 @@
 1722022223 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/services/src/operations/account_operations.cpp
 	"services/includes/operations/account_operations.hpp"
 
-1721489188 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/list.hpp
+1722741371 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/presentation_logic/list.hpp
 	"window.hpp"
 	<list>
 	<string>
@@ -1359,10 +1359,10 @@
 1721508498 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/base_menu.cpp
 	"base_menu.hpp"
 
-1722349820 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/deed_menu.cpp
+1722635581 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/deed_menu.cpp
 	"operations/deed_menu.hpp"
 
-1722197042 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/deed_menu.hpp
+1722695593 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/deed_menu.hpp
 	"base_menu.hpp"
 	<list>
 	<tuple>
@@ -1371,12 +1371,12 @@
 	"presentation_logic/form.hpp"
 	"presentation_logic/list.hpp"
 
-1722217920 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/deed_operations.hpp
+1722689173 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/deed_operations.hpp
 	"query_database.hpp"
 	"account.hpp"
 	"deed.hpp"
 
-1722217524 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/deed_operations.hpp
+1722737428 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/deed_operations.hpp
 	"interfaces/operations/deed_operations.hpp"
 	"deeds_table.hpp"
 
@@ -1386,12 +1386,12 @@
 1722349668 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/db/src/deeds_table.cpp
 	"deeds_table.hpp"
 
-1722212359 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/deeds_table.hpp
+1722740049 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/deeds_table.hpp
 	"database.hpp"
 	"query_database.hpp"
 	"account.hpp"
 
-1722218345 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/payment_menu.hpp
+1722695588 /home/gscolombo/Documentos/unb/TP1/deed_manager/view/includes/operations/payment_menu.hpp
 	"base_menu.hpp"
 	<list>
 	<vector>
@@ -1402,21 +1402,21 @@
 	"services/includes/operations/deed_operations.hpp"
 	"services/includes/operations/payment_operations.hpp"
 
-1722287427 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/payment_operations.hpp
+1722737568 /home/gscolombo/Documentos/unb/TP1/deed_manager/services/includes/operations/payment_operations.hpp
 	"interfaces/operations/payment_operations.hpp"
 	"payments_table.hpp"
 
-1722287634 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/payment_operations.hpp
+1722689285 /home/gscolombo/Documentos/unb/TP1/deed_manager/interfaces/operations/payment_operations.hpp
 	"query_database.hpp"
 	"account.hpp"
 	"deed.hpp"
 	"payment.hpp"
 
-1722212470 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/payments_table.hpp
+1722740168 /home/gscolombo/Documentos/unb/TP1/deed_manager/db/includes/payments_table.hpp
 	"database.hpp"
 	"query_database.hpp"
 
-1722346107 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/payment_menu.cpp
+1722635682 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/view/src/operations/payment_menu.cpp
 	"operations/payment_menu.hpp"
 
 1722287873 source:/home/gscolombo/Documentos/unb/TP1/deed_manager/services/src/operations/payment_operations.cpp

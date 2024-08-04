@@ -1,0 +1,10 @@
+<map id="Payment" name="Payment">
+<area shape="rect" id="node1" title="Class for payment entity representation." alt="" coords="193,171,267,197"/>
+<area shape="rect" id="node2" href="$d2/d60/classPercent.html" title="Class for percent domain representation." alt="" coords="13,81,79,108"/>
+<area shape="rect" id="node3" href="$d4/de5/classInterval.html" title="Abstract class for intervals with defined bound." alt="" coords="5,5,71,32"/>
+<area shape="rect" id="node4" href="$d2/dc1/classPaymentCode.html" title="Class for payment code domain representation." alt="" coords="108,81,213,108"/>
+<area shape="rect" id="node5" href="$dc/da0/classAlphanumericalCode.html" title="Abstract class for alphanumerical codes." alt="" coords="95,5,237,32"/>
+<area shape="rect" id="node6" href="$de/d4a/classDate.html" title="Class for date domain representation." alt="" coords="238,81,289,108"/>
+<area shape="rect" id="node7" href="$d0/dea/classStatus.html" title="Class representing the status domain." alt="" coords="313,81,373,108"/>
+<area shape="rect" id="node8" href="$d2/d2f/classStringListing.html" title="Base class for listings." alt="" coords="296,5,391,32"/>
+</map>

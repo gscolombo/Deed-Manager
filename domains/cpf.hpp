@@ -9,7 +9,7 @@ using namespace utils;
 
 /**
  * @class CPF
- * Class for CPF domain representation.
+ * @brief Class for CPF domain representation.
 */
 class CPF : public AlphanumericalCode {
     private:

@@ -9,7 +9,7 @@ using namespace utils;
 
 /**
  * @class Percent
- * Class for percent domain representation.
+ * @brief Class for percent domain representation.
 */
 class Percent : public Interval {
     public:

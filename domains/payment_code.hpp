@@ -7,7 +7,7 @@
 
 /**
  * @class PaymentCode
- * Class for payment code domain representation.
+ * @brief Class for payment code domain representation.
 */
 class PaymentCode : public AlphanumericalCode {
     private:

@@ -13,7 +13,7 @@ using namespace utils;
 
 /**
  * @class Name
- * Class for name domain representation.
+ * @brief Class for name domain representation.
 */
 class Name {
     private:

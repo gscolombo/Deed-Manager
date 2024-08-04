@@ -1,0 +1,12 @@
+<map id="Register" name="Register">
+<area shape="rect" id="node1" title="Class representing the registration view." alt="" coords="191,349,262,376"/>
+<area shape="rect" id="node2" href="$d7/d10/classAccount.html" title="Class for account entity representation." alt="" coords="102,171,173,197"/>
+<area shape="rect" id="node10" href="$da/d26/classIRegistration.html" title="Abstract class for registration functionalities." alt="" coords="179,260,275,287"/>
+<area shape="rect" id="node3" href="$dc/d6c/classPassword.html" title="Class for password domain representation." alt="" coords="5,81,85,108"/>
+<area shape="rect" id="node4" href="$d5/d5c/classCPF.html" title="Class for CPF domain representation." alt="" coords="111,81,161,108"/>
+<area shape="rect" id="node5" href="$dc/da0/classAlphanumericalCode.html" title="Abstract class for alphanumerical codes." alt="" coords="65,5,207,32"/>
+<area shape="rect" id="node6" href="$d8/d20/className.html" title="Class for name domain representation." alt="" coords="185,81,242,108"/>
+<area shape="rect" id="node7" href="$d0/da6/classForm.html" title="A class representing a form window." alt="" coords="299,260,351,287"/>
+<area shape="rect" id="node8" href="$dc/dc4/classWindow.html" title="Class representing a Window in the User Interface." alt="" coords="291,171,360,197"/>
+<area shape="rect" id="node9" href="$d9/dcf/classUI.html" title="Singleton class that holds the terminal UI." alt="" coords="306,81,345,108"/>
+</map>

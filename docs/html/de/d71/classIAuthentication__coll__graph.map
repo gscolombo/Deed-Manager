@@ -1,0 +1,8 @@
+<map id="IAuthentication" name="IAuthentication">
+<area shape="rect" id="node1" title="Abstract class for authentication functionalities." alt="" coords="83,260,192,287"/>
+<area shape="rect" id="node2" href="$d7/d10/classAccount.html" title="Class for account entity representation." alt="" coords="102,171,173,197"/>
+<area shape="rect" id="node3" href="$dc/d6c/classPassword.html" title="Class for password domain representation." alt="" coords="5,81,85,108"/>
+<area shape="rect" id="node4" href="$d5/d5c/classCPF.html" title="Class for CPF domain representation." alt="" coords="111,81,161,108"/>
+<area shape="rect" id="node5" href="$dc/da0/classAlphanumericalCode.html" title="Abstract class for alphanumerical codes." alt="" coords="65,5,207,32"/>
+<area shape="rect" id="node6" href="$d8/d20/className.html" title="Class for name domain representation." alt="" coords="185,81,242,108"/>
+</map>

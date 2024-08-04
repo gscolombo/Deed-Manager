@@ -1,0 +1,12 @@
+<map id="AuthenticationMenu" name="AuthenticationMenu">
+<area shape="rect" id="node1" title="The AuthenticationMenu class represents the main menu of the application in the authentication step." alt="" coords="146,336,283,363"/>
+<area shape="rect" id="node2" href="$d1/d55/classBaseMenu.html" title="Base class for all menus." alt="" coords="173,260,257,287"/>
+<area shape="rect" id="node3" href="$d7/d10/classAccount.html" title="Class for account entity representation." alt="" coords="137,171,207,197"/>
+<area shape="rect" id="node4" href="$dc/d6c/classPassword.html" title="Class for password domain representation." alt="" coords="5,81,85,108"/>
+<area shape="rect" id="node5" href="$d5/d5c/classCPF.html" title="Class for CPF domain representation." alt="" coords="110,81,159,108"/>
+<area shape="rect" id="node6" href="$dc/da0/classAlphanumericalCode.html" title="Abstract class for alphanumerical codes." alt="" coords="63,5,206,32"/>
+<area shape="rect" id="node7" href="$d8/d20/className.html" title="Class for name domain representation." alt="" coords="183,81,241,108"/>
+<area shape="rect" id="node8" href="$d8/ddb/classMenu.html" title="A class representing a menu window." alt="" coords="243,171,298,197"/>
+<area shape="rect" id="node9" href="$dc/dc4/classWindow.html" title="Class representing a Window in the User Interface." alt="" coords="265,81,335,108"/>
+<area shape="rect" id="node10" href="$d9/dcf/classUI.html" title="Singleton class that holds the terminal UI." alt="" coords="281,5,319,32"/>
+</map>

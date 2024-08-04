@@ -50,11 +50,11 @@ void AccountMenu::edit() {
     if (edit.submit && filled) {
         if (!IAccountOp->update(user, edit.data)) {
             werase(log.getWindow());
-            mvwprintw(log.getWindow(), 0, 1, "%s", IAccountOp->info.c_str());
+            mvwprintw(log.getWindow(), 0, 1, "%s", IAccountOp->getInfo().c_str());
             log.refreshWindow();
             goto i;
         }
-        setUser(IAccountOp->account);
+        setUser(IAccountOp->getAccount());
         updateHeader();
     }
     else if (edit.goBack) return;

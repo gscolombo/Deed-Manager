@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d1/d55/classBaseMenu.html" title="Base class for all menus." alt="" coords="5,107,89,133"/>
+<area shape="rect" id="node2" href="$d5/dfb/classAccountMenu.html" title="This class represents the account menu UI." alt="" coords="155,5,257,32"/>
+<area shape="rect" id="node3" href="$d4/ddf/classAuthenticationMenu.html" title="The AuthenticationMenu class represents the main menu of the application in the authentication step." alt="" coords="137,56,275,83"/>
+<area shape="rect" id="node4" href="$db/dda/classDeedMenu.html" title="Menu class for deed operations." alt="" coords="163,107,249,133"/>
+<area shape="rect" id="node5" href="$d4/dc3/classPaymentMenu.html" title="Menu class for payment operations." alt="" coords="153,157,259,184"/>
+<area shape="rect" id="node6" href="$d9/dbf/classServicesMenu.html" title="The ServicesMenu class is a menu that provides access to various services." alt="" coords="153,208,259,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RegisterUser" name="RegisterUser">
+<area shape="rect" id="node1" title="This class is used to register a new user account." alt="" coords="152,349,251,376"/>
+<area shape="rect" id="node2" href="$da/d26/classIRegistration.html" title="Abstract class for registration functionalities." alt="" coords="89,260,185,287"/>
+<area shape="rect" id="node3" href="$d7/d10/classAccount.html" title="Class for account entity representation." alt="" coords="102,171,173,197"/>
+<area shape="rect" id="node4" href="$dc/d6c/classPassword.html" title="Class for password domain representation." alt="" coords="5,81,85,108"/>
+<area shape="rect" id="node5" href="$d5/d5c/classCPF.html" title="Class for CPF domain representation." alt="" coords="111,81,161,108"/>
+<area shape="rect" id="node6" href="$dc/da0/classAlphanumericalCode.html" title="Abstract class for alphanumerical codes." alt="" coords="65,5,207,32"/>
+<area shape="rect" id="node7" href="$d8/d20/className.html" title="Class for name domain representation." alt="" coords="185,81,242,108"/>
+<area shape="rect" id="node8" href="$d3/d04/classIQueryDatabase.html" title="Abstract class for operations related with database querying." alt="" coords="209,260,327,287"/>
+<area shape="rect" id="node9" href="$d1/db9/structResponse.html" title="Struct representing a database response." alt="" coords="227,171,309,197"/>
+</map>

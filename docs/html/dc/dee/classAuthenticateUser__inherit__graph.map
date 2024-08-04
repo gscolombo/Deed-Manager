@@ -1,0 +1,4 @@
+<map id="AuthenticateUser" name="AuthenticateUser">
+<area shape="rect" id="node1" title="This class is used to authenticate a user." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node2" href="$d4/da8/classIAuthentication.html" title="Abstract class for authentication functionalities." alt="" coords="12,5,121,32"/>
+</map>

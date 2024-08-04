@@ -108,7 +108,7 @@ void DeedMenu::del(string& pk, string& fk) {
 
     if (!confirm.getSelected()) {
         if (!operations->del(data))
-            baseLog = operations->info;
+            baseLog = operations->getInfo();
         else
             baseLog = "Título deletado com sucesso.";
     }
@@ -171,7 +171,7 @@ void DeedMenu::update(string& pk, string& fk) {
                 }
                 if (any) {
                     if (!operations->update(user, data)) {
-                        log = operations->info;
+                        log = operations->getInfo();
                         goto i;
                     }
                     baseLog = "Título atualizado com sucesso!";
@@ -245,7 +245,7 @@ void DeedMenu::create() {
                 if (fulfilled) {
                     data["cpf"] = user.getCPFDomain().getCode();
                     if (!operations->create(user, data)) {
-                        log = operations->info;
+                        log = operations->getInfo();
                         goto i;
                     }
                     baseLog = "Título cadastrado com sucesso!";

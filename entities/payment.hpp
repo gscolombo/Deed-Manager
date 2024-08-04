@@ -10,14 +10,29 @@
 
 /**
  * @class Payment
- * Class for payment entity representation.
+ * @brief Class for payment entity representation.
 */
 class Payment {
     private:
-            PaymentCode code;
-            Date date;
-            Percent percent;
-            Status status;
+        /**
+         * @brief The code of the payment.
+         */
+        PaymentCode code;
+
+        /**
+         * @brief The date of the payment.
+         */
+        Date date;
+
+        /**
+         * @brief The percent of the payment.
+         */
+        Percent percent;
+
+        /**
+         * @brief The status of the payment.
+         */
+        Status status;
     public:
             /**
              * Constructor for the Payment class. Initializes the Payment object with the given code, date, percent, and status.

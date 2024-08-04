@@ -10,7 +10,7 @@ using namespace std;
 
 /**
  * @class Password
- * Class for password domain representation.
+ * @brief Class for password domain representation.
 */
 class Password {
     private:

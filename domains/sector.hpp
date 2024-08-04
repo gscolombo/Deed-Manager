@@ -5,7 +5,7 @@
 
 /**
  * @class Sector
- * Class for sector domain representation.
+ * @brief Class for sector domain representation.
 */
 class Sector : public StringListing {
     public:

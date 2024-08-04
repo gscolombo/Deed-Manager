@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d03/classDatabase.html" title="Class representing a database connection." alt="" coords="25,31,103,57"/>
+<area shape="rect" id="node2" href="$da/d03/classAccountsTable.html" title="This class represents a table of accounts in the database." alt="" coords="173,5,281,32"/>
+<area shape="rect" id="node3" href="$d9/dfc/classDeedsTable.html" title="Class representing a deed table in the database." alt="" coords="181,56,272,83"/>
+<area shape="rect" id="node4" href="$d8/d9a/classPaymentsTable.html" title="Class representing a payments table in the database." alt="" coords="171,107,283,133"/>
+<area shape="rect" id="node5" href="$d3/d04/classIQueryDatabase.html" title="Abstract class for operations related with database querying." alt="" coords="5,81,123,108"/>
+</map>

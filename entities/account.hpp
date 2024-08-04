@@ -7,7 +7,7 @@
 
 /**
  * @class Account
- * Class for account entity representation.
+ * @brief Class for account entity representation.
 */
 class Account {
     private:

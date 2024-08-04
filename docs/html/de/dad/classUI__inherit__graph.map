@@ -1,0 +1,8 @@
+<map id="UI" name="UI">
+<area shape="rect" id="node1" title="Singleton class that holds the terminal UI." alt="" coords="141,5,180,32"/>
+<area shape="rect" id="node2" href="$dc/dc4/classWindow.html" title="Class representing a Window in the User Interface." alt="" coords="126,80,195,107"/>
+<area shape="rect" id="node3" href="$d0/da6/classForm.html" title="A class representing a form window." alt="" coords="5,155,57,181"/>
+<area shape="rect" id="node4" href="$d3/d78/classHeader.html" title="Represents the header of the interface." alt="" coords="82,155,146,181"/>
+<area shape="rect" id="node5" href="$d6/da9/classList.html" title="A class representing a List of items displayed in a ncurses window." alt="" coords="170,155,245,181"/>
+<area shape="rect" id="node6" href="$d8/ddb/classMenu.html" title="A class representing a menu window." alt="" coords="269,155,324,181"/>
+</map>

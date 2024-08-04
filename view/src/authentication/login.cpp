@@ -2,10 +2,10 @@
 
 bool Login::authenticate(Data& d) {
     if (!IAuth->authenticate(d)) {
-        updateInfo(IAuth->info.c_str());
+        updateInfo(IAuth->getInfo().c_str());
         return false;
     }
-    response = IAuth->account;
+    response = IAuth->getAccount();
     return true;
 }
 

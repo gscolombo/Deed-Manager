@@ -1,0 +1,6 @@
+<map id="PaymentOperations" name="PaymentOperations">
+<area shape="rect" id="node1" title="Implements the IPaymentOperations interface." alt="" coords="57,184,194,211"/>
+<area shape="rect" id="node2" href="$df/d9f/classIPaymentOperations.html" title="Abstract class for payment related operations." alt="" coords="5,95,147,121"/>
+<area shape="rect" id="node3" href="$d3/d04/classIQueryDatabase.html" title="Abstract class for operations related with database querying." alt="" coords="171,95,288,121"/>
+<area shape="rect" id="node4" href="$d1/db9/structResponse.html" title="Struct representing a database response." alt="" coords="189,5,270,32"/>
+</map>

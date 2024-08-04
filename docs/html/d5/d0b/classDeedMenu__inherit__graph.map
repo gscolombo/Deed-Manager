@@ -1,0 +1,4 @@
+<map id="DeedMenu" name="DeedMenu">
+<area shape="rect" id="node1" title="Menu class for deed operations." alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node2" href="$d1/d55/classBaseMenu.html" title="Base class for all menus." alt="" coords="6,5,90,32"/>
+</map>
