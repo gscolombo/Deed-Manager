@@ -36,7 +36,7 @@ void Form::fillForm(int i) {
 
     refreshWindow();
 
-    curs_set(2);
+    curs_set(1);
     wmove(window, i + 1, (int) (label + ":").size() + 2);
     wclrtoeol(window);
     box(window,0,0);
@@ -60,7 +60,6 @@ void Form::fillForm(int i) {
     }
     data[label] = tmp;
 
-    noecho();
     refreshWindow();
 }
 

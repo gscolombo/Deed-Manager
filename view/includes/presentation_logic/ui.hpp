@@ -72,6 +72,10 @@ class UI {
 };
 
 inline void UI::close() {
+    setlocale(LC_ALL, "");
+    nocbreak();
+    echo();
+    curs_set(1);
     endwin();
 }
 
